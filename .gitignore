@@ -1,6 +1,7 @@
 # macOS
 .DS_Store
 
-# KiCard
+# KiCad
 *-bak
 fp-info-cache
+USB-C-to-C Power Mod-backups
